@@ -1,0 +1,130 @@
+.chat-app {
+	border-style: double;
+	border-color: #FFFFFF;
+	background-color: #3366CC;
+	border-width: 10px;
+}
+.display-panel {
+	background-color: #FFFFFF;
+}
+.users {
+	background-position: center;
+	background-color: #3366CC;
+	border-color: #FFFFFF;
+	border-style: dotted;
+	margin-top: 0px;
+}
+.user {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-position: center;
+}
+.username {
+	font-weight: bold;
+	font-style: italic;
+	color: #FFFFFF;
+}
+.messages {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.sender-info {
+	background-color: #FF33FF;
+	font-weight: bold;
+	color: #FFFFFF;
+	margin-right: 70%;
+
+}
+.timestamp {
+	font-size: 12px;
+	color: #FF33FF;
+	font-weight: lighter;
+}
+.message-text {
+	background-color: #3366CC;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-right: 40%;
+	font-size: 25px;
+	font-weight: bold;
+	color: #FFFFFF;
+	line-height: 160%;
+}
+.outgoing {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	margin-left: 10%;
+	margin-right: 10%;
+	border-style: double;
+	border-color: #FFFFFF;
+	border-width: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #FFFFFF;
+	font-style: italic;
+	font-weight:bold;
+}
+.to-send {
+	padding-right: 70px;
+	display: flex;
+
+}
+.frame-work {
+	padding-top: 20%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	background-position: center;
+	background-color: #3366CC;
+	border-color: #FFFFFF;
+	border-style: dotted;
+	margin-top: 0px;
+	color: #FFFFFF;
+	font-size: 25px;
+	font-weight: bolder;
+	font-style: italic;
+}
+.input-username {
+	background-color: #FF33FF;
+	padding: 2%;
+	font-weight: bold;
+	color: #FFFFFF;
+
+}
+.input-registration {
+	background-color: #FF33FF;
+	padding: 2%;
+	font-weight: bold;
+	color: #FFFFFF;
+
+}
+.error {
+	padding: 2%;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.title {
+	padding-left:2%;
+	padding-bottom: 2%;
+	padding-top:2%;
+	padding-right:2%;
+	color: #3366CC;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 20px;
+}
+.logout {
+	margin-left: 50%;
+}
+.new-title {
+	width: 75%;
+}
+.new-content {
+	width: 75%;
+}
